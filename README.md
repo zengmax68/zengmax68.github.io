@@ -1,2 +1,2 @@
 # zengmax68.github.io
-My own website &amp; hostname
+My own website
